@@ -8,7 +8,7 @@ This Java program implements a classic 2-player Tic-Tac-Toe game. Players take t
 
  ## Run the program:
    * Execute the compiled class file:
-     java TicTacToe
+     java tictactoe
 
 ## Gameplay
  * The game will prompt players to enter their symbols(X or O) respectively.
